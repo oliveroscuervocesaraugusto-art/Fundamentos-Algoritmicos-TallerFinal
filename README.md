@@ -7,7 +7,7 @@ resultado <- 5 + 3 * 2 ^ 2 - (10 MOD 3)
 
   <img width="1366" height="768" alt="ejercicio1" src="https://github.com/user-attachments/assets/be19d336-c7f4-4c83-867b-281e3a2754bc" />
 ---
-resultado_logico <- No(var_A O var_B) Y (var_C Y No(var_B))
+## resultado_logico <- No(var_A O var_B) Y (var_C Y No(var_B))
 	resultado_logico <- No Verdadero Y (var_C Y verdadero)
 	resultado_logico <- Falso Y Verdadero
 	resultado_logico <- Falso 
@@ -15,7 +15,7 @@ resultado_logico <- No(var_A O var_B) Y (var_C Y No(var_B))
 	<img width="1366" height="768" alt="ejercicio2" src="https://github.com/user-attachments/assets/4e40b2f5-a7de-4b66-8b41-a9485bc2d634" />
 
 ---
-Algoritmo SelectorCandidatos
+## Algoritmo SelectorCandidatos
 	definir estatura_ingresada como real 
 	definir peso_ingresado como real 
 	
@@ -33,7 +33,7 @@ Algoritmo SelectorCandidatos
 FinAlgoritmo<img width="1366" height="768" alt="ejercicio3" src="https://github.com/user-attachments/assets/1e8dfdfc-d3e5-405f-9fb9-d085755e50b6" />
 
 ---
-Algoritmo LiquidacionNominaTechSolutions
+## Algoritmo LiquidacionNominaTechSolutions
     
     Definir nombre_operador Como Caracter
     Definir horas_ejecutadas, horas_normales, horas_extras Como Real
@@ -123,7 +123,7 @@ Algoritmo LiquidacionNominaTechSolutions
 
 
 ---
-Algoritmo CajeroCripto
+## Algoritmo CajeroCripto
     
     Definir saldo_disponible Como Real
     Definir opcion, monto_retiro, monto_btc Como Real
